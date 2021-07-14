@@ -148,7 +148,7 @@ const Header = () => {
         <ContenedorHeader>
             <ContenedorGrid>
                 <div>
-                    <Parrafo>My Unsplash</Parrafo>    
+                    <Parrafo>My Unsplas2</Parrafo>    
                     <Spans>Biblioteca</Spans>
                 </div>             
                 <DivInput>
