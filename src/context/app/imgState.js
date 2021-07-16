@@ -38,7 +38,6 @@ const ImgState = props => {
     const [state, dispatch] = useReducer(imgReducer, initialState);
 
     const subirImg = async (formData, nombreImg) => {
-        // console.log(nombreImg);
         dispatch({
             type: SUBIR_IMAGEN
         });
